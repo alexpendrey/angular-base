@@ -1,4 +1,4 @@
-# quiz-master
+# angular-base
 A scaffolding of AngularJS for new projects. With example controllers, services and unit tests
 
 ## Install
